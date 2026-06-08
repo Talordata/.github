@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 # TalorData
 
 **Multi-Engine SERP API for Developers, SEO Teams, and AI Workflows**  
@@ -45,7 +43,7 @@ Compare TalorData, SerpAPI, and DataForSEO across:
 
 ## 🔗 Resources
 
-- 🌐 [Website](https://talordata.com)  
+- 🌐 [Website](https://talordata.com/?campaignid=hiy46bmdwF990Hqs&utm_source=Github29&utm_term=Github29)  
 - 📖 [Documentation](https://github.com/Talordata/talordata)  
 - 📧 [Support](mailto:support@talordata.com)  
 - 💡 [GitHub Repos](https://github.com/Talordata)
