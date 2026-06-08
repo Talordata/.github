@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./banner.JPG" alt="TalorData Banner" width="100%">
 </p>
+
 # TalorData
 
 **Multi-Engine SERP API for Developers, SEO Teams, and AI Workflows**  
