@@ -48,7 +48,7 @@ Compare TalorData, SerpAPI, and DataForSEO across:
 ## 🔗 Resources
 
 - 🌐 [Website](https://talordata.com/?campaignid=hiy46bmdwF990Hqs&utm_source=Github29&utm_term=Github29)  
-- 📖 [Documentation](https://github.com/Talordata/talordata)  
+- 📖 [Documentation](https://docs.talordata.com/)  
 - 📧 [Support](mailto:support@talordata.com)  
 - 💡 [GitHub Repos](https://github.com/Talordata)
 
@@ -58,7 +58,7 @@ Compare TalorData, SerpAPI, and DataForSEO across:
 
 - [TalorData SERP API](https://github.com/Talordata/talordata-serp)  
 - [MCP Server](https://github.com/Talordata/mcp-server)  
-- [SDK Examples](https://github.com/Talordata/sdk-examples)  
+- [Langchain](https://github.com/Talordata/langchain-talordata)  
 
 ---
 
