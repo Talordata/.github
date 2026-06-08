@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # TalorData
 
 **Multi-Engine SERP API for Developers, SEO Teams, and AI Workflows**  
