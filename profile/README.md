@@ -1,27 +1,61 @@
-🚀 TalorData
-The Search Infrastructure Layer for AI Agents
+# TalorData
 
-Multi-engine real-time search API for LLMs, AI agents, and data-driven systems
+**Multi-Engine SERP API for Developers, SEO Teams, and AI Workflows**  
 
-<p align="center"> <b>Turn the web into structured intelligence for AI systems.</b> </p>
-🌍 The Problem
+TalorData delivers real-time, structured search results from Google, Bing, Yandex, and DuckDuckGo. Designed for high-performance search-data applications and AI agents.
 
-Modern AI systems still lack reliable access to real-time web data.
+---
 
-Most SERP APIs are:
+## 📄 Featured Article
 
-❌ Built for humans, not AI
-❌ Single-engine only
-❌ Expensive at scale
-❌ Returning unstructured HTML/noise
-❌ Hard to integrate into agent workflows
+### Benchmark Report v1
 
-AI agents are powerful — but blind to real-time reality.
+Compare TalorData, SerpAPI, and DataForSEO across:
 
-⚡ The TalorData Solution
+- Latency (<3s avg response)
+- Success Rate (>99.9%)
+- Cost Efficiency
+- Global Coverage (195+ countries)
 
-TalorData is a multi-engine search infrastructure layer built for AI systems.
+➡️ Read the full report: [Benchmark Report v1](https://github.com/Talordata/talordata/blob/main/README.md)
 
-We transform raw search results into:
+---
 
-🧠 Clean, structured, real-time intelligence for AI agents
+## 🚀 Products & Integrations
+
+- **SERP API** — Real-time multi-engine search results  
+- **MCP Server** — AI Agent Search Integration  
+- **LangChain SDK** — Quick API integration for agents  
+- **LlamaIndex Examples** — Seamless AI workflows
+
+---
+
+## 📊 Stats & Highlights
+
+| Metric | Value |
+|--------|-------|
+| Uptime | 99.9% |
+| Avg Response | <3s |
+| Coverage | 195+ Countries |
+| Support | 24/7 |
+
+---
+
+## 🔗 Resources
+
+- 🌐 [Website](https://talordata.com)  
+- 📖 [Documentation](https://github.com/Talordata/talordata)  
+- 📧 [Support](mailto:support@talordata.com)  
+- 💡 [GitHub Repos](https://github.com/Talordata)
+
+---
+
+## ⭐ Pinned Repositories
+
+- [TalorData SERP API](https://github.com/Talordata/talordata-serp)  
+- [MCP Server](https://github.com/Talordata/mcp-server)  
+- [SDK Examples](https://github.com/Talordata/sdk-examples)  
+
+---
+
+> TalorData empowers developers and AI agents with fast, reliable search-data access — all in one multi-engine API.
