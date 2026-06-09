@@ -39,7 +39,7 @@ Compare TalorData, SerpAPI, and DataForSEO across:
 | Metric | Value |
 |--------|-------|
 | Uptime | 99.9% |
-| Avg Response | <3s |
+| Avg Response | <1s |
 | Coverage | 195+ Countries |
 | Support | 24/7 |
 
